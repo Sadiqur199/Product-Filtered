@@ -10,4 +10,4 @@ This project is an e-commerce product filtering application built using **React.
 - **JavaScript**: For dynamic interactions and state management.
 
 
-- [@vitejs/plugin-react](https://reliable-longma-73f82d.netlify.app/)
+- [E-commerce Product Filter](https://reliable-longma-73f82d.netlify.app/)
